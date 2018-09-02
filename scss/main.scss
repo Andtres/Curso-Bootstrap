@@ -1,0 +1,19 @@
+/*----------------------
+        PATRON DE COLORES
+//-------------------------------------*/
+$texto: red;
+$principal: PINK ;
+$secuandoraio: orange;
+
+/*++++++++++++++estilos de pruva´´´++++*/
+.container{
+    border: 2px solid $texto;
+}
+
+.row{
+    border: 2px solid blue;
+}
+
+.row>*{//hijas directas
+    border: 1px solid green;
+}
