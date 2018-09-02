@@ -6,14 +6,18 @@ $principal: PINK ;
 $secuandoraio: orange;
 
 /*++++++++++++++estilos de pruva´´´++++*/
+*{
+    text-transform: initial;
+}
 .container{
     border: 2px solid $texto;
+    
 }
 
 .row{
-    border: 2px solid blue;
+    border: 2px solid $principal;
 }
 
 .row>*{//hijas directas
-    border: 1px solid green;
+    border: 1px solid $secuandoraio;
 }
