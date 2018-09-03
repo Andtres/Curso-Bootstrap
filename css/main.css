@@ -1,16 +1,1 @@
-@charset "UTF-8";
-/*----------------------
-        PATRON DE COLORES
-//-------------------------------------*/
-/*++++++++++++++estilos de pruva´´´++++*/
-* {
-  text-transform: initial; }
-
-.container {
-  border: 2px solid red; }
-
-.row {
-  border: 2px solid PINK; }
-
-.row > * {
-  border: 1px solid orange; }
+@charset "UTF-8";*{text-transform:initial}.container{border:2px solid red}.row{border:2px solid PINK}.row>*{border:1px solid orange}P{font-size:1.2rem}h1{font-size:8rem}@media (min-width:768px){html{font-size:18px}}
