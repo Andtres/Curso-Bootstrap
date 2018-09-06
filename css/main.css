@@ -1,1 +1,1 @@
-@charset "UTF-8";*{text-transform:initial}.container{border:2px solid red}.row{border:2px solid PINK}.row>*{border:1px solid orange}
+@charset "UTF-8";*{text-transform:initial}.container{border:2px solid red}.row{border:2px solid PINK}.row>*{border:1px solid orange}.bg-primary{background-color:PINK!important}

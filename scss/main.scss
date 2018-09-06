@@ -20,5 +20,9 @@ $secuandoraio: orange;
 
 .row>*{//hijas directas
     border: 1px solid $secuandoraio;
+    
+}
 
+.bg-primary {
+    background-color: $principal!important;
 }
